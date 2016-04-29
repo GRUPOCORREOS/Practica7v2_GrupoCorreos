@@ -1,0 +1,62 @@
+Return-Path: <Jesus.V.Albert@uv.es>
+Received: from murder (cuervo.ci.uv.es [147.156.1.157])
+	 by postor.uv.es (Cyrus v2.2.12) with LMTPA;
+	 Wed, 13 Feb 2008 17:49:28 +0100
+X-Sieve: CMU Sieve 2.2
+Received: from postre1.uv.es ([unix socket])
+	 by post.uv.es (Cyrus v2.2.12) with LMTPA;
+	 Wed, 13 Feb 2008 17:49:28 +0100
+Received: from postin.uv.es (postin.uv.es [147.156.1.90])
+	by postre1.uv.es (8.13.4/8.13.4) with ESMTP id m1DGnRYM032637
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=OK)
+	for <jvalbert@uv.es>; Wed, 13 Feb 2008 17:49:27 +0100
+Received: from verano.informat.uv.es (verano.informat.uv.es [147.156.17.81])
+	by postin.uv.es (8.13.5.20060308/8.13.5) with ESMTP id m1DGnQnp029350
+	for <jvalbert@uv.es>; Wed, 13 Feb 2008 17:49:27 +0100
+From: =?iso-8859-1?q?Jes=FAs_Albert?= <Jesus.V.Albert@uv.es>
+To: Jesus.V.Albert@uv.es
+Subject: Fwd: Concurso  ETSE
+Date: Wed, 13 Feb 2008 17:49:26 +0100
+User-Agent: KMail/1.8.2
+MIME-Version: 1.0
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+Message-Id: <200802131749.26785.Jesus.V.Albert@uv.es>
+X-RelayDelay-Mem: Whitelisted relay verano.informat.uv.es [147.156.17.81]. Not delayed
+
+
+
+Subject: Concurso  ETSE
+Date: Viernes 01 Febrero 2008 20:47
+
+ Este es el resultado del formulario. Fue enviado por
+ (Formulario Inscripcion) el Viernes, Febrero 1, 2008 a las 20:47:31
+---------------------------------------------------------------------------
+
+
+nombregrupo: pedalea
+
+apellidos1: Contador, Alberto
+
+titulacion1: Ingeniería Informática
+apellidos2: Hinault, Bernardo
+
+titulacion2: Ingeniería Química
+
+apellidos3: Delgado, Pedro
+
+titulacion3:
+
+apellidos4: Pedal, Antonio
+
+titulacion4: Ingeniería Telemática
+
+telcontacto: 555
+
+emailcontacto: contador.alberto@uv.es
+
+Submit2: Enviar
+
+---------------------------------------------------------------------------

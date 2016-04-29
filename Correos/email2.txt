@@ -1,0 +1,52 @@
+Return-Path: <www-data@uv.es>
+Received: from murder (cuervo.ci.uv.es [147.156.1.157])
+	 by postor.uv.es (Cyrus v2.2.12) with LMTPA;
+	 Wed, 06 Feb 2008 11:11:13 +0100
+X-Sieve: CMU Sieve 2.2
+Received: from postre1.uv.es ([unix socket])
+	 by post.uv.es (Cyrus v2.2.12) with LMTPA;
+	 Wed, 06 Feb 2008 11:11:13 +0100
+Received: from post.uv.es (postre1.uv.es [147.156.1.239])
+	by postre1.uv.es (8.13.4/8.13.4) with ESMTP id m16ABDdI025578
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <concurso@[postre1.uv.es.]>; Wed, 6 Feb 2008 11:11:13 +0100
+Received: from boxer.uv.es (boxer.ci.uv.es [147.156.1.4])
+	by post.uv.es (8.13.4/8.13.4) with ESMTP id m16ABCI2025572
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <concurso@uv.es>; Wed, 6 Feb 2008 11:11:13 +0100
+Received: from www-data by boxer.uv.es with local (Exim 4.50)
+	id 1JMhFI-0004ha-Nm
+	for concurso@uv.es; Wed, 06 Feb 2008 11:11:12 +0100
+To: concurso@uv.es
+From: bill.jobs@gmail.com ()
+Subject: ETSE_Inscripcion
+Message-Id: <E1JMhFI-0004ha-Nm@boxer.uv.es>
+Date: Wed, 06 Feb 2008 11:11:12 +0100
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+ Este es el resultado del formulario. Fue enviado por
+ (Formulario Inscripcion) el Jueves, Enero 31, 2008 a las 15:54:41
+---------------------------------------------------------------------------
+
+
+nombregrupo: Francisco Javier de Asís
+
+apellidos1: Francisco Javier de Asís
+
+titulacion1: Ingeniería Informática
+
+
+apellidos2: Loyola, Ignacio
+
+titulacion2: Ingeniería Informática
+apellidos3: Bryan
+
+titulacion3: Ingeniería Química
+
+telcontacto: 666774444
+
+emailcontacto: asis@alumni.uv.es
+
+---------------------------------------------------------------------------
